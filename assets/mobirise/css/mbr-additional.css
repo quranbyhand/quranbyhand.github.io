@@ -2346,10 +2346,26 @@ body {
 .cid-qXoV7ZKrWi .mbr-section-btn {
   color: #413200;
 }
+.cid-qXoZp1IbqF {
+  background-image: url("../../../assets/images/02.jpg");
+}
+.cid-qXoZp1IbqF .form-container {
+  transition: all .2s;
+  border: 1px solid #ffffff;
+  padding: 1rem;
+}
+.cid-qXoZp1IbqF .input-group-btn {
+  justify-content: center;
+}
+@media (min-width: 768px) {
+  .cid-qXoZp1IbqF .content-container {
+    padding-right: 5rem;
+  }
+}
 .cid-qXoV81G5h6 {
   padding-top: 60px;
   padding-bottom: 30px;
-  background-color: #ffffff;
+  background-color: #f9f295;
 }
 .cid-qXoV81G5h6 .form-text {
   color: #767676;
